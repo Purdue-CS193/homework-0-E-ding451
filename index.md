@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Personal Edits
+
+On a dark desert highway / Cool wind in my hair / Warm smell of colitas / Rising up through the air / Up ahead in the distance / I saw a shimmering light / My head grew and heavy and my sight grew dim / I had to stop for the night
+
+```markdown
+# With your phone out, gotta hit them angles
+## With your phone out, snappin' like you Fabo
+1. And you showin' off, but it's alright
+2. And you showin' off, but it's alright (Alright!)
