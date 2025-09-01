@@ -1,4 +1,5 @@
 # Eric's First CS913 Homework
+Favorite things about CS193
 - No pressure
 - Helpful TAs
 - Not a lot of HW
